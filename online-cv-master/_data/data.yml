@@ -7,186 +7,177 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rachel S. Bagwell
+    #tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: rachelsbagwell@gmail.com
+    phone: 925 577 8412
+    #website: blog.webjeda.com #do not add http://
+    linkedin: rachelbagwell
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      #- idiom: French
+      #  level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      #- idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gardening
         link:
 
-      - item: Snowboarding
+      - item: Gaming
         link:
 
-      - item: Cooking
+      - item: Hiking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Early Career Data Scientist with a B.S. in Applied Mathematics.
+      2+ years of academic data science research and  5+ years of CS internship experience.
+      Proficient in utilizing Python and  MATLAB to create and deliver predictive models utilizing billions of data points for 
+      applications in robotics, physics and cyber security. Aspiring to complete Azure Data Scientist Associate certificate with 
+      current practical knowledge of Machine Learning, Deep learning,  Data Visualization with Power BI and Apache Spark with Azure Databricks. 
+      Capable of creating, developing, testing, and employing data-intensive applications and models to translate business and functional qualifications 
+      into substantial deliverables. 
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Mathematical Sciences, concentration in Computational and Applied Mathematics
+      university: DePaul University
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University.
+        •	Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python.
+        •	Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Robotics Researcher
+      time: April - July 2021
+      company: DePaul University, RoME Lab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University.
+        •	Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python.
+        •	Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
+        
+    - role: Data Science Researcher
+      time: June - August 2019
+      company: DePaul University, Physics Department
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
+        •	Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
+        •	SQL scripting for data cleaning Data preparation, cleaning
+        
+    - role: Marketing Intern
+      time: November - December 2018
+      company: RIMCO LLC, Puerto Rico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        •	Conducted market research and analyzed current trends in construction equipment sales.
+        •	Performed data analytics using excel on transaction data covering customers. 
+        •	Developed skills in networking, communications and general business knowledge. Practiced use and understanding of a foreign language, Spanish. Assisted departments in accomplishing year-end goals
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Global Security Intern, Cyber Defender Intern
+      time: June - August 2017, June - August 2016
+      company: DePaul University, Physics Department
+      details: |
+        •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. 
+        •	Chosen as one of the two Alumni Ambassadors for our internship class.
+        •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
+ 
+  - role: Programming Intern
+      time: June - August 2015
+      company: Girls Who Code, GE Software
+      details: |
+        •   Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. 
+        •	Chose as one of the two Alumni Ambassadors for our internship class.
+	
+ 
+        
+#projects:
+ #   title: Projects
+ #   intro: >
+ #     You can list your side projects or open source libraries in this
+ #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ #   assignments:
+ #     - title: Velocity
+ #       link: "#hook"
+ #       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+ #     - title: DevStudio
+ #       link: "#"
+ #       tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+ #     - title: Tempo
+ #       link: "#"
+ #       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ #     - title: Atom
+ #       link: "#"
+ #       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+ #     - title: Delta
+ #       link: "#"
+ #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-skills:
-    title: Skills &amp; Proficiency
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#skills:
+#    title: Skills &amp; Proficiency
 
-      - name: Javascript & jQuery
-        level: 98%
+#   toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: Angular
+#        level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Ruby on Rails
+#        level: 85%
+
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
