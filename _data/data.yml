@@ -72,39 +72,39 @@ experiences:
       company: DePaul University, RoME Lab
       details: |
         •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University.
-        •	Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python.
-        •	Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
+        •   Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python.
+        •   Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
         
     - role: Data Science Researcher
       time: June - August 2019
       company: DePaul University, Physics Department
       details: |
-        •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
-        •	Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
-        •	SQL scripting for data cleaning Data preparation, cleaning
+        •   Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
+        •   Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
+        •   SQL scripting for data cleaning Data preparation, cleaning
         
     - role: Marketing Intern
       time: November - December 2018
       company: RIMCO LLC, Puerto Rico
       details: |
-        •	Conducted market research and analyzed current trends in construction equipment sales.
-        •	Performed data analytics using excel on transaction data covering customers. 
-        •	Developed skills in networking, communications and general business knowledge. Practiced use and understanding of a foreign language, Spanish. Assisted departments in accomplishing year-end goals
+        •   Conducted market research and analyzed current trends in construction equipment sales.
+        •   Performed data analytics using excel on transaction data covering customers. 
+        •   Developed skills in networking, communications and general business knowledge. Practiced use and understanding of a foreign language, Spanish. Assisted departments in accomplishing year-end goals
 
     - role: Global Security Intern, Cyber Defender Intern
       time: June - August 2017, June - August 2016
       company: DePaul University, Physics Department
       details: |
-        •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. 
-        •	Chosen as one of the two Alumni Ambassadors for our internship class.
-        •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
+        •   Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. 
+        •   Chosen as one of the two Alumni Ambassadors for our internship class.
+        •   Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
  
   - role: Programming Intern
       time: June - August 2015
       company: Girls Who Code, GE Software
       details: |
         •   Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. 
-        •	Chose as one of the two Alumni Ambassadors for our internship class.
+        •   Chose as one of the two Alumni Ambassadors for our internship class.
 #projects:
  #   title: Projects
  #   intro: >
